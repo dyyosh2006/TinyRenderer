@@ -1,0 +1,35 @@
+﻿  main.cpp
+D:\MyRenderer\TinyRenderer\TinyRender\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\MyRenderer\TinyRenderer\TinyRender\main.cpp(20,10): warning C4305: “初始化”: 从“double”到“float”截断
+D:\MyRenderer\TinyRenderer\TinyRender\main.cpp(91,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\MyRenderer\TinyRenderer\TinyRender\main.cpp(610,86): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\MyRenderer\TinyRenderer\TinyRender\main.cpp(610,50): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\MyRenderer\TinyRenderer\TinyRender\main.cpp(630,83): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\MyRenderer\TinyRenderer\TinyRender\main.cpp(630,47): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\MyRenderer\TinyRenderer\TinyRender\main.cpp(645,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\MyRenderer\TinyRenderer\TinyRender\main.cpp(645,54): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  TinyRenderer.vcxproj -> D:\MyRenderer\TinyRenderer\x64\Debug\TinyRenderer.exe
